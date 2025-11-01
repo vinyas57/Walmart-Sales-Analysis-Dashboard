@@ -18,3 +18,5 @@ The objective of this dashboard project is to analyze Walmart’s sales performa
 - Formatting & UI Enhancement
 - Dashboard Testing & Validation
 - Final Deployment
+
+- Dashboard Interaction <a href="
